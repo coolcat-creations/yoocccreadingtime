@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<updates>
+  <update>
+    <name>yoocccreadingtime</name>
+    <description>YOOtheme Pro Element to display the reading time of a block or specific content</description>
+    <element>yoocccreadingtime</element>
+    <type>plugin</type>
+    <version>0.0.1</version>
+    <downloads>
+      <downloadurl type="full" format="zip">https://www.example.com/downloads/yoocccreadingtime-j-0.0.1.zip</downloadurl>
+    </downloads>
+    <stability>stable</stability>
+    <sha256>e1f32d2ebd5cbea7672939737c2eec9878f801d0b996f1169557c60972ddaeb4</sha256>
+    <sha384>d36075faa21f1108f0c1749f29635979e8fcd3076bda2e99ad4792c58e0696c26af39c2d697b94ed707bd7133a3ec2e6</sha384>
+    <sha512>efc56c0474a85ebad8ba423deffd9247e3cba010bfd24cc711ba7422ff0f6c171307e123853c6f455cf875655db5630233d80a7a53ef96ea4f92430a2e63d6c8</sha512>
+    <maintainer>Elisa Sophia Foltyn</maintainer>
+    <maintainerurl>https://coolcat-creations.com</maintainerurl>
+    <targetplatform name="joomla" version="(5\.[01]|4\.[01234]|3\.10)\."/>
+  </update>
+</updates>

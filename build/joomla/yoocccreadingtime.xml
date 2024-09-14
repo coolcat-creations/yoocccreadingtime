@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<extension type="plugin" group="system" method="upgrade">
+    <name>YOO CCC Reading Time</name>
+    <version>{{VERSION}}</version>
+    <description>{{DESCRIPTION}}</description>
+    <creationDate>{{DATE}}</creationDate>
+    <copyright>{{COPYRIGHT}}</copyright>
+    <license>{{LICENSE}}</license>
+    <author>{{AUTHOR}}</author>
+    <authorEmail>{{AUTHOREMAIL}}</authorEmail>
+    <authorUrl>{{AUTHORURL}}</authorUrl>
+    <files>
+        <filename plugin="yoocccreadingtime">yoocccreadingtime.php</filename>
+        <folder>modules</folder>
+    </files>
+    <updateservers>
+        <server type="extension" priority="1" name="yoocccreadingtime">
+            {{UPDATEURI}}/update.xml
+        </server>
+    </updateservers>
+</extension>
